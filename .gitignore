@@ -1,2 +1,7 @@
 .idea/
 Git.iml
+*.log
+*.tmp
+.config
+/node_modules/
+/assets/*
